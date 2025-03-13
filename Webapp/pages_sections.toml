@@ -1,0 +1,9 @@
+[[pages]]
+name = "Model seletion"
+is_section = true
+icon = "🏠"
+
+[[pages]]
+path = "RFPage.py"
+name = "Random Forrest Classifier"
+icon = "🎈️"
